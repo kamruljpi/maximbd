@@ -42,6 +42,7 @@
 	<script src="{{ asset('assets/scripts/task/taskTpye.js') }}"></script>
 	<script src="{{ asset('assets/scripts/jquery.easy-autocomplete.min.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('js/production.js') }}"></script>
+
 	@yield('LoadScript')
 </body>
 </html>
